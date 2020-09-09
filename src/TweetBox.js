@@ -27,7 +27,7 @@ const TweetBox = ({ tweets, onCreatePressed }) => {
                  </div>
                  
                  <div className="upload">
-                 <h2 className="Expiry">Disappear Tweet At:</h2>   
+                 <h2 className="Expiry">Disappear At:</h2>   
                  <DateTimePicker
         onChange={onChange}
         value={datePickerValue}
