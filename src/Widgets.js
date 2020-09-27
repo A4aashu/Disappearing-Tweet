@@ -15,9 +15,9 @@ function Widgets() {
             </div>
             <div className="widgets__widgetContainer">
         <h2>What's happening</h2>
-<TwitterTweetEmbed tweetId="1306151245661442048"/>
-<TwitterTimelineEmbed sourceType="profile" screenName="SocGen_India" options={{height:400}}/>
-<TwitterShareButton url={"https://www.societegenerale.com/en/home"} options={{text:"Societe Generale is awesome",via:"Aashu yadav"}}/>
+<TwitterTweetEmbed tweetId="1308028243077935104"/>
+<TwitterTimelineEmbed sourceType="profile" screenName="Accenture" options={{height:400}}/>
+<TwitterShareButton url={"https://www.accenture.com/in-en"} options={{text:"Accenture is awesome",via:"Aashu yadav"}}/>
         </div>
         </div>
     )
